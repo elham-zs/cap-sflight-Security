@@ -18,7 +18,7 @@
   "dependencies": {
     "@sap/cds": ">=5.4.5",
     "@sap/xssec": "^3.2.7",
-    "express": "^4",
+    "express": "^4.20.0",
     "hdb": "^0.19.1",
     "passport": "^0.6.0"
   },
